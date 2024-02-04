@@ -1,5 +1,10 @@
 hi 
 hello
 how are you ?
+
 i am fine
-great
+
+
+i am fine
+
+>>>>>>> refs/remotes/origin/devolop
